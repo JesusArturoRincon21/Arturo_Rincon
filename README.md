@@ -1,20 +1,37 @@
-🎓 Estudiante de Análisis y Desarrollo de Software (ADSO) en el SENA, interesado en la programación, la tecnología y el desarrollo de soluciones digitales.
+💻 ¡Hola! Soy Estudiante de ADSO - SENA 🚀
+¡Bienvenido a mi perfil! Soy estudiante del programa Análisis y Desarrollo de Software (ADSO) en el SENA. Me apasiona el mundo de la tecnología y actualmente estoy construyendo mis primeras bases para el desarrollo de soluciones digitales.
 
-💻 Actualmente estoy fortaleciendo mis conocimientos en desarrollo de software, programación con Python y C#, desarrollo web, bases de datos SQL y diseño de modelos entidad-relación (MER/DER).
+⚠️ En constante formación: Actualmente cuento con conocimientos básicos en programación y bases de datos. Mi meta es seguir practicando día a día para fortalecer mis habilidades técnicas.
 
-🛠️ Estoy aprendiendo a utilizar herramientas como Git y GitHub para el control de versiones, la gestión de repositorios y el trabajo colaborativo, aplicando buenas prácticas durante el desarrollo de proyectos.
+📌 Sobre Mí
+🎓 Formación: Aprendiz ADSO en el SENA.
 
-🚀 Me interesa crear aplicaciones funcionales, interfaces intuitivas y sistemas que permitan resolver problemas reales mediante la tecnología. También estoy explorando nuevas herramientas y metodologías para mejorar mis habilidades como desarrollador.
+🐣 Nivel actual: Principiante / Fundamentos en desarrollo de software.
 
-📚 Mi objetivo es continuar aprendiendo, adquirir experiencia práctica y crecer profesionalmente en el mundo del desarrollo de software, trabajando con responsabilidad, creatividad y compromiso.
+💡 Enfoque: Aprender lógica de programación, diseño de bases de datos y maquetación web.
 
-**Tecnologías y áreas de interés:**
+🎯 Objetivo: Adquirir experiencia práctica a través de ejercicios sencillos, proyectos de clase y trabajo colaborativo.
 
-* Python y C#
-* HTML, CSS y desarrollo web
-* SQL y bases de datos
-* Git y GitHub
-* Análisis y diseño de software
-* Desarrollo de proyectos tecnológicos
+🛠️ Tecnologías y Herramientas (Fundamentos)
+Estas son las tecnologías con las que estoy dando mis primeros pasos y practicando conceptos básicos:
 
-🌎 Siempre dispuesto a aprender, afrontar nuevos retos y convertir ideas en soluciones tecnológicas.
+🐍 Lenguajes de Programación
+Sintaxis básica, estructuras de control (if, for, while) y funciones sencillas.
+
+🌐 Desarrollo Web
+Estructuración de páginas web simples y estilos básicos.
+
+🗄️ Bases de Datos
+Consultas elementales y diseño inicial de modelos entidad-relación (MER/DER).
+
+⚙️ Control de Versiones
+Comandos básicos para gestión de repositorios y respaldo de proyectos.
+
+📚 En lo que me estoy enfocando hoy
+Reforzar la lógica: Resolver problemas básicos usando código estructurado.
+
+Entender el modelado: Crear diagramas de bases de datos correctos antes de escribir código.
+
+Buenas prácticas: Utilizar Git desde temprano para mantener un flujo ordenado.
+
+🌱 Dispuesto a aprender, asumir retos a mi nivel y avanzar paso a paso hacia el desarrollo profesional.
