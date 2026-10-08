@@ -1,37 +1,84 @@
-💻 ¡Hola! Soy Estudiante de ADSO - SENA 🚀
-¡Bienvenido a mi perfil! Soy estudiante del programa Análisis y Desarrollo de Software (ADSO) en el SENA. Me apasiona el mundo de la tecnología y actualmente estoy construyendo mis primeras bases para el desarrollo de soluciones digitales.
+# 💻 ¡Hola! Soy Estudiante de ADSO - SENA 🚀
 
-⚠️ En constante formación: Actualmente cuento con conocimientos básicos en programación y bases de datos. Mi meta es seguir practicando día a día para fortalecer mis habilidades técnicas.
+---
 
-📌 Sobre Mí
-🎓 Formación: Aprendiz ADSO en el SENA.
+## 📌 Perfil y Compromiso
 
-🐣 Nivel actual: Principiante / Fundamentos en desarrollo de software.
+Soy **aprendiz del programa Análisis y Desarrollo de Software (ADSO)** en el **SENA**. Me apasiona el mundo de la tecnología, la programación y la creación de soluciones digitales.
 
-💡 Enfoque: Aprender lógica de programación, diseño de bases de datos y maquetación web.
+> ⚠️ **Aviso de nivel:** Mi formación está en etapa inicial. Cuento con **conocimientos básicos** y me mantengo en constante aprendizaje, practicando diariamente para consolidar los fundamentos de la programación y el diseño de software.
 
-🎯 Objetivo: Adquirir experiencia práctica a través de ejercicios sencillos, proyectos de clase y trabajo colaborativo.
+* 🎯 **Enfoque:** Aprender con responsabilidad, creatividad y compromiso.
+* 🛠️ **Meta actual:** Construir bases sólidas en lógica de programación, bases de datos y desarrollo web.
+* 🤝 **Actitud:** Siempre dispuesto a colaborar, asumir nuevos retos a mi nivel y convertir ideas en proyectos funcionales.
 
-🛠️ Tecnologías y Herramientas (Fundamentos)
-Estas son las tecnologías con las que estoy dando mis primeros pasos y practicando conceptos básicos:
+---
 
-🐍 Lenguajes de Programación
-Sintaxis básica, estructuras de control (if, for, while) y funciones sencillas.
+## 🛠️ Fundamentos Técnicos (En Fortalecimiento)
 
-🌐 Desarrollo Web
-Estructuración de páginas web simples y estilos básicos.
+A continuación presento las tecnologías y herramientas con las que estoy trabajando y practicando actualmente a un nivel básico:
 
-🗄️ Bases de Datos
-Consultas elementales y diseño inicial de modelos entidad-relación (MER/DER).
+### 🐍 Lenguajes de Programación
 
-⚙️ Control de Versiones
-Comandos básicos para gestión de repositorios y respaldo de proyectos.
+| Tecnología | Insignia | Conceptos Básicos Dominados |
+| --- | --- | --- |
+| **Python** |  | Sintaxis elemental, variables, tipos de datos, condicionales (`if/else`), bucles (`for/while`) y funciones simples. |
+| **C#** |  | Primeros pasos en sintaxis de consola, tipos de datos y fundamentos orientados a objetos. |
 
-📚 En lo que me estoy enfocando hoy
-Reforzar la lógica: Resolver problemas básicos usando código estructurado.
+---
 
-Entender el modelado: Crear diagramas de bases de datos correctos antes de escribir código.
+### 🌐 Desarrollo Web y Maquetación
 
-Buenas prácticas: Utilizar Git desde temprano para mantener un flujo ordenado.
+| Tecnología | Insignia | Conceptos Básicos Dominados |
+| --- | --- | --- |
+| **HTML5** |  | Estructuración semántica de páginas web, etiquetas de texto, formularios, enlaces e imágenes. |
+| **CSS3** |  | Estilos básicos, selectores, paletas de colores, tipografía y maquetación inicial. |
 
-🌱 Dispuesto a aprender, asumir retos a mi nivel y avanzar paso a paso hacia el desarrollo profesional.
+---
+
+### 🗄️ Bases de Datos y Modelado
+
+| Tecnología | Insignia | Conceptos Básicos Dominados |
+| --- | --- | --- |
+| **SQL Server** |  | Creación de tablas básicas, tipos de datos SQL y consultas primarias (`SELECT`, `INSERT`). |
+| **MySQL** |  | Manejo de relaciones fundamentales y consultas simples de selección y filtrado. |
+| **Modelado MER / DER** |  | Diseño conceptual de diagramas Entidad-Relación para representar estructuras de datos. |
+
+---
+
+### ⚙️ Control de Versiones y Colaboración
+
+| Herramienta | Insignia | Conceptos Básicos Dominados |
+| --- | --- | --- |
+| **Git** |  | Comandos esenciales (`git init`, `add`, `commit`, `push`, `pull`, `status`). |
+| **GitHub** |  | Creación y gestión de repositorios remotos, resguardo de código y documentación básica. |
+
+---
+
+## 🎨 Pasiones e Intereses
+
+```
+  [💻 Crear Aplicaciones] ───► [🎨 Diseñar Interfaces Intuitivas]
+           │                                 │
+           ▼                                 ▼
+  [🛠️ Resolver Problemas] ───► [🔬 Explorar Metodologías]
+
+```
+
+* 📱 **Creación de aplicaciones funcionales:** Desarrollar pequeños programas que cumplan tareas específicas.
+* 🖥️ **Diseño de interfaces intuitivas:** Aprender a maquetar sitios web limpios y fáciles de navegar.
+* 🔧 **Resolución de problemas:** Utilizar la tecnología para solucionar requerimientos simples del día a día.
+* 🔍 **Exploración de metodologías:** Conocer buenas prácticas de desarrollo y estándares del programa ADSO.
+
+---
+
+## 📈 Objetivos de Crecimiento Profesional
+
+1. **Afianzar la lógica:** Practicar continuamente ejercicios de algoritmos en Python y C#.
+2. **Perfeccionar las bases de datos:** Diseñar esquemas relacionales limpios antes de implementarlos en código.
+3. **Construir portafolio:** Subir ejercicios académicos y pequeños proyectos de clase a GitHub de forma ordenada.
+4. **Trabajo en equipo:** Aprender a colaborar de forma efectiva utilizando control de versiones.
+
+---
+
+🌎 *Formándome paso a paso, con la disposición de aprender, asumir nuevos retos y avanzar en el mundo del desarrollo de software.*
